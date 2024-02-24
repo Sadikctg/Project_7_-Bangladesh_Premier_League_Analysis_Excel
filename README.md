@@ -10,7 +10,10 @@
 The project entails crafting a dynamic Excel dashboard for scrutinizing BPL (Bangladesh Premier League) data spanning from 2012 to 2020. Leveraging Pivot Tables and Pivot Charts, providing insights into match outcomes, venue statistics, player performance, and team data. By ensuring data accuracy through cleaning and transformation, the dashboard aims to significantly diminish data-related errors.
 
 ### Business Case:
-Analyzing data from the Bangladesh Premier League (BPL) provides essential insights for team strategies, player evaluations, and fan engagement. The dynamic Excel dashboard simplifies data analysis, aiding stakeholders, analysts, and team management in making informed decisions based on historical BPL data.
+<p style="text-align: justify;">
+    <strong>Business Case:</strong> Analyzing data from the Bangladesh Premier League (BPL) provides essential insights for team strategies, player evaluations, and fan engagement. The dynamic Excel dashboard simplifies data analysis, aiding stakeholders, analysts, and team management in making informed decisions based on historical BPL data.
+</p>
+
 
 ### Project Goal:
 The project aims to forge a comprehensive Excel dashboard empowering users to glean insights from BPL data spanning a decade (2012-2020). Furnishing visualizations and summaries of match outcomes, venue trends, player performance, and team statistics, the dashboard strives to facilitate data-driven decision-making for BPL teams, analysts, and cricket enthusiasts.
