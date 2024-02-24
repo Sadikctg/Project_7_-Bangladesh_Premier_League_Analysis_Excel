@@ -15,8 +15,6 @@ Analyzing data from the Bangladesh Premier League (BPL) provides essential insig
 ### Project Goal:
 The project aims to forge a comprehensive Excel dashboard empowering users to glean insights from BPL data spanning a decade (2012-2020). Furnishing visualizations and summaries of match outcomes, venue trends, player performance, and team statistics, the dashboard strives to facilitate data-driven decision-making for BPL teams, analysts, and cricket enthusiasts.
 
-<p style="text-align: justify;">The project aims to forge a comprehensive Excel dashboard empowering users to glean insights from BPL data spanning a decade (2012-2020). Furnishing visualizations and summaries of match outcomes, venue trends, player performance, and team statistics, the dashboard strives to facilitate data-driven decision-making for BPL teams, analysts, and cricket enthusiasts.</p>
-
 ### Key Performance Indicators (KPIs):
 #### Primary
 - Title Winner
@@ -40,6 +38,4 @@ The project aims to forge a comprehensive Excel dashboard empowering users to gl
 
 4. Time-Series Analysis: Like reviewing past match performances to predict future outcomes, the time-series analysis feature tracks team performance across seasons, enabling users to identify long-term trends, patterns, and tendencies, empowering them to make informed predictions and strategic decisions.
 
-5. Interactive Filters: Much like choosing specific match years, teams, or players to analyze during a cricket match, the dashboard includes interactive filters that allow users to tailor their analysis based on specific criteria, enhancing the user experience and facilitating focused insights.
-
-6. Error-Free Data: Similar to ensuring accurate scorekeeping during a cricket match, the dashboard prioritizes clean and accurate data to provide reliable insights, minimizing inaccuracies in decision-making and ensuring stakeholders can trust the information presented for strategic planning and execution.
+5. Error-Free Data: Similar to ensuring accurate scorekeeping during a cricket match, the dashboard prioritizes clean and accurate data to provide reliable insights, minimizing inaccuracies in decision-making and ensuring stakeholders can trust the information presented for strategic planning and execution.
