@@ -18,6 +18,8 @@ The project entails crafting a dynamic Excel dashboard for scrutinizing BPL (Ban
 ### Project Goal:
 The project aims to forge a comprehensive Excel dashboard empowering users to glean insights from BPL data spanning a decade (2012-2020). Furnishing visualizations and summaries of match outcomes, venue trends, player performance, and team statistics, the dashboard strives to facilitate data-driven decision-making for BPL teams, analysts, and cricket enthusiasts.
 
+<p style="text-align: justify;">The project aims to forge a comprehensive Excel dashboard empowering users to glean insights from BPL data spanning a decade (2012-2020). Furnishing visualizations and summaries of match outcomes, venue trends, player performance, and team statistics, the dashboard strives to facilitate data-driven decision-making for BPL teams, analysts, and cricket enthusiasts.</p>
+
 ### Key Performance Indicators (KPIs):
 #### Primary
 - Title Winner
