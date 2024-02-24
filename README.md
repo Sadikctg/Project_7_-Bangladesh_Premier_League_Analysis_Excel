@@ -1,9 +1,9 @@
 ### BPL Analytics Cricket DASHBOARD
 ![BPL](https://github.com/Sadikctg/Project_7_-Bangladesh_Premier_League_Analysis_Excel/blob/main/images/bpllogo.jpg)
 
-• Developed a dynamic Excel dashboard employing Pivot Tables and Pivot Charts to analyze BPL data, offering a comprehensive examination of data from 2012 to 2020.
-• Constructed an extensive overview segment presenting crucial statistics, encompassing 294 match results, Top 5 Venues, Player Of the Match, and team data for 8 teams.
-• Designed Key Performance Indicators (KPIs), employing shapes/icons and Excel formulas for enhanced data visualization and informed decision-making processes.
+• Developed a dynamic Excel dashboard employing Pivot Tables and Pivot Charts to analyze BPL data, offering a comprehensive examination of data from 2012 to 2020. <br>
+• Constructed an extensive overview segment presenting crucial statistics, encompassing 294 match results, Top 5 Venues, Player Of the Match, and team data for 8 teams.<br>
+• Designed Key Performance Indicators (KPIs), employing shapes/icons and Excel formulas for enhanced data visualization and informed decision-making processes.<br>
 • Efficiently processed and transformed raw data to ensure data accuracy and reliability for dashboard development, resulting in a notable 25% reduction in data-related errors.
 
 ### Project Overview:
@@ -17,16 +17,16 @@ The project aims to forge a comprehensive Excel dashboard empowering users to gl
 
 ### Key Performance Indicators (KPIs):
 #### Primary
-• Title Winner
-• Runner Up
-• Player of the Match
-• Player of the Series
+- Title Winner
+- Runner Up
+- Player of the Match
+- Player of the Series
 
 #### Secondary
-• Matches Won by Team regarding Bat First and Field First since 2012
-• Top 10 MoM Award Winners
-• Toss Decision Based Winning Percentage
-• Top 10 Venues with Most Matches and Winning Based on Bat First & Field First
+- Matches Won by Team regarding Bat First and Field First since 2012
+- Top 10 MoM Award Winners
+- Toss Decision Based Winning Percentage
+- Top 10 Venues with Most Matches and Winning Based on Bat First & Field First
 
 ### Enhancing Cricket Analysis: Key Features of the Dashboard
 ![BPL](https://github.com/Sadikctg/Project_7_-Bangladesh_Premier_League_Analysis_Excel/blob/main/images/BPL%20Analysis-cropped.jpg)
